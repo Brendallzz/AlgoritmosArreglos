@@ -68,8 +68,8 @@ public class Nivel2 {
             }
         }
 
-        JOptionPane.showMessageDialog(null, "Suma de índices pares: " + sumaPares
-                + "\nSuma de índices impares: " + sumaImpares
+        JOptionPane.showMessageDialog(null, "Suma de indices pares: " + sumaPares
+                + "\nSuma de indices impares: " + sumaImpares
         );
     }
 
